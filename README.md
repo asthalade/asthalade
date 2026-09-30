@@ -41,7 +41,7 @@ I'm a Cybersecurity enthusiast and B.Tech Computer Science graduate with hands-o
   * SQL Injection, Reflected XSS and missing anti-CSRF token alerts
 
 * **PortSwigger XSS Labs**
-  (https://github.com/asthalade/PASTE-YOUR-REPO-NAME)**
+  (https://github.com/asthalade/portswigger-xss-labs)
   * Reflected, Stored and DOM-based XSS labs
   * Context-based payload crafting and filter bypass
 
